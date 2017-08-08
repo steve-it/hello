@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel on ubuntu
+                    Laravel on ubuntu Serge Fossouo
                 </div>
 
                 <div class="links">
