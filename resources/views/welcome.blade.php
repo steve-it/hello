@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel on ubuntu SIGL
-                    et SSI
+                    et RAM
                 </div>
 
                 <div class="links">
