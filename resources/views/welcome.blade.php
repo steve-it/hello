@@ -42,7 +42,9 @@
             }
 
             .content {
-                text-align: center;
+                text-align: right;
+                color: #a08a50;
+
             }
 
             .title {
